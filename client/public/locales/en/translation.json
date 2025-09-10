@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote"
+  },
+  "hero": {
+    "badge": "Security-First IT Solutions",
+    "title1": "Secure",
+    "title2": "& Scalable",
+    "title3": "IT Solutions for",
+    "title4": "Modern Business",
+    "description": "From web development to business automation, we deliver innovative technology solutions with security at the core. Trusted by businesses, institutions, and individuals worldwide.",
+    "ctaPrimary": "Request a Quote",
+    "ctaSecondary": "Explore Services",
+    "uptime": "Uptime",
+    "support": "Support",
+    "reach": "Global"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive IT Solutions",
+    "subtitle": "Tailored for Your Success",
+    "description": "From custom web development to enterprise-grade security, we provide the technology foundation your business needs to thrive in the digital age.",
+    "webDev": {
+      "title": "Full-Stack Web Development",
+      "description": "Modern, responsive websites and web applications built with cutting-edge technologies. From concept to deployment, we handle it all."
+    },
+    "automation": {
+      "title": "Business Automation",
+      "description": "Streamline operations with intelligent workflow automation. Reduce manual tasks, increase efficiency, and scale your business effortlessly."
+    },
+    "network": {
+      "title": "Network Management",
+      "description": "Comprehensive network infrastructure management ensuring optimal performance, security, and reliability for your business operations."
+    },
+    "payout": {
+      "title": "Payout Integration",
+      "description": "Seamless payment gateway integration for your existing websites. Secure, compliant, and optimized for maximum conversion rates."
+    },
+    "firewall": {
+      "title": "Firewall Installation",
+      "description": "Advanced firewall solutions to protect your digital assets. Enterprise-grade security tailored to your specific threat landscape."
+    },
+    "server": {
+      "title": "Server Setup",
+      "description": "Professional server configuration and deployment. Optimized for performance, security, and scalability with 24/7 monitoring."
+    },
+    "learnMore": "Learn More",
+    "andMore": "...and more",
+    "customSolutions": "Custom solutions tailored to your unique requirements",
+    "discussProject": "Discuss Your Project"
+  },
+  "about": {
+    "badge": "About SVINTECH",
+    "title": "Built by Experts, Driven by Innovation",
+    "description": "Founded with a security-first philosophy, SVINTECH combines cutting-edge technology with deep industry expertise to deliver solutions that scale with your business.",
+    "mission": "Our Mission",
+    "missionText": "To empower businesses worldwide with secure, scalable, and innovative IT solutions that drive growth and competitive advantage in the digital economy.",
+    "founders": "Meet Our Founders",
+    "values": "Our Core Values"
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Let's Discuss Your Next Project",
+    "description": "Ready to get started? Choose your preferred way to connect with our team. We're here to help bring your vision to life.",
+    "email": "Email Us",
+    "whatsapp": "WhatsApp Chat",
+    "calendar": "Book a Call",
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "quote": {
+    "badge": "Get Your Quote",
+    "title": "Ready to Transform Your Business?",
+    "description": "Tell us about your project and we'll provide a customized quote tailored to your specific needs and budget.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company/Organization",
+      "phone": "Phone Number",
+      "services": "Services Needed (Select all that apply)",
+      "description": "Project Description",
+      "budget": "Estimated Budget Range",
+      "timeline": "Preferred Timeline",
+      "submit": "Submit Quote Request",
+      "security": "Your information is encrypted and secure. We'll respond within 24 hours."
+    }
+  },
+  "footer": {
+    "description": "Delivering secure, scalable, and innovative IT solutions for businesses, institutions, and individuals worldwide. Your trusted partner in digital transformation.",
+    "services": "Services",
+    "company": "Company",
+    "copyright": "© 2024 SVINTECH. All rights reserved.",
+    "global": "Global Services",
+    "security": "Security First"
+  }
+}
