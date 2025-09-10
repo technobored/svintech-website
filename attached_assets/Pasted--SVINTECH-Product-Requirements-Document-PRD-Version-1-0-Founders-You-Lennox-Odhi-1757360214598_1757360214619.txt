@@ -1,0 +1,165 @@
+🚀 SVINTECH – Product Requirements Document (PRD)
+
+📅 Version: 1.0
+👨‍💻 Founders: You + Lennox Odhiambo Otimbo
+🌍 Domain: svintech.com
+
+🎯 1. INTRODUCTION
+
+Purpose: Build SVINTECH’s official website as a security-first, scalable, and client-focused hub.
+Vision: To deliver secure, automated, and innovative IT solutions for businesses, institutions, and individuals worldwide.
+Audience:
+
+🏢 Businesses: SMEs, startups, corporates
+
+🏫 Institutions: schools, hospitals, government bodies
+
+👤 Individuals: freelancers, entrepreneurs, private clients
+
+🌍 Global: bilingual (English + French)
+
+🌐 2. PRODUCT OVERVIEW
+
+⚡ Website Goal: Convert visitors into trusted leads through a Request a Quote flow.
+💡 Core Philosophy: Innovation + Security + Scalability.
+
+🎯 3. OBJECTIVES & GOALS
+
+✅ Establish SVINTECH’s digital presence
+
+✅ Drive lead generation via custom quote requests
+
+✅ Build trust through a security-first philosophy
+
+✅ Offer bilingual support (English/French)
+
+✅ Ensure future scalability (blog, portfolio, CRM, AI integrations)
+
+🛠️ 4. FEATURES & SCOPE
+In-Scope Features
+
+🖥️ Core Pages: Home, Services, Service Details, Request a Quote, Contact, About, Legal
+
+🌍 Multilingual Toggle: English (default) + French
+
+📝 Forms: Secure Quote Form + Contact Form
+
+💬 Direct Channels: WhatsApp button + Book-a-Call
+
+🎨 Design: Dark/Light mode, responsive, minimalist-futuristic
+
+Out-of-Scope (Future Enhancements)
+
+📖 Blog/Portfolio
+
+🤖 AI Chatbot
+
+📊 CRM Integration
+
+⚙️ 5. FUNCTIONAL REQUIREMENTS
+
+Website Pages
+
+Home: Bold hero banner, tagline, CTA: “Request a Quote”
+
+Services Overview: Quick benefits-driven list
+
+Service Details:
+
+Web Development
+
+Business Automation (n8n)
+
+Network Management
+
+Payout Integration
+
+Firewall Installation
+
+Server Setup
+
+“...and more”
+
+Request a Quote: Encrypted form with client details + project needs
+
+Contact: Email form + WhatsApp + Book-a-Call
+
+About: Story, mission, security-first philosophy
+
+Legal: Privacy Policy, T&Cs
+
+🔒 6. NON-FUNCTIONAL REQUIREMENTS
+
+Security: Encrypted forms, hardened backend, secure APIs
+
+Performance: <3s mobile load time
+
+Scalability: Modular design for future add-ons
+
+Reliability: 99.9% uptime + backups
+
+Accessibility: WCAG compliant basics
+
+SEO: Optimized for keywords (web dev, IT security, automation, firewall, server setup)
+
+🎨 7. DESIGN GUIDELINES
+
+Style: Bold, clean, futuristic
+
+Colors: Blue ⚪ Gray ⚫ White ⚡ Black
+
+Typography: Sleek, sans-serif (bold for impact)
+
+UI Elements: Rounded corners, smooth transitions, strong visual hierarchy
+
+Mode: Dark/Light toggle
+
+Graphics: Hero imagery that screams Innovation + Security
+
+👥 8. TEAM ROLES
+
+You: Product strategy, software & growth
+
+Lennox Odhiambo Otimbo: Infrastructure, networking, system integration
+
+Dev/Design Team: UX/UI + build
+
+Content Writer: Service blurbs + CTAs
+
+QA: Testing (responsiveness, security, performance)
+
+⏳ 9. TIMELINE & ROADMAP
+
+Phase 1 (0–2 Months): MVP → Core pages + English version
+
+Phase 2 (2–4 Months): French + Blog/Portfolio
+
+Phase 3 (6+ Months): CRM, AI chatbot, advanced scaling
+
+⚠️ 10. RISKS & ASSUMPTIONS
+
+Risks:
+
+🚨 Scope creep at MVP stage
+
+🚨 Delay in multilingual rollout
+
+🚨 Security gaps if backend rushed
+
+Assumptions:
+
+✅ Clients prefer custom quotes over fixed pricing
+
+✅ Security-first branding attracts trust
+
+✅ Website = primary lead-gen channel
+
+📊 11. SUCCESS METRICS
+
+🌐 Traffic: ≥1000 visits/month in 6 months
+
+📩 Leads: ≥20 quotes/month
+
+🔍 SEO: Top 10 for ≥3 target keywords
+
+📈 Engagement: Bounce <40%, Avg session >2 min
